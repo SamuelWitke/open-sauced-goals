@@ -1,19 +1,19 @@
 [
   {
     "full_name": "insanum/gcalcli",
-    "stargazers_count": 2758,
+    "stargazers_count": 2762,
     "open_issues_count": 176,
-    "forks_count": 276
+    "forks_count": 277
   },
   {
     "full_name": "arwes/arwes",
-    "stargazers_count": 5109,
+    "stargazers_count": 5113,
     "open_issues_count": 40,
-    "forks_count": 235
+    "forks_count": 236
   },
   {
     "full_name": "kogosoftwarellc/open-api",
-    "stargazers_count": 663,
+    "stargazers_count": 666,
     "open_issues_count": 78,
     "forks_count": 194
   },
@@ -31,21 +31,21 @@
   },
   {
     "full_name": "timlrx/tailwind-nextjs-starter-blog",
-    "stargazers_count": 2483,
-    "open_issues_count": 6,
+    "stargazers_count": 2499,
+    "open_issues_count": 7,
     "forks_count": 619
   },
   {
     "full_name": "Camberi/firecms",
-    "stargazers_count": 515,
+    "stargazers_count": 516,
     "open_issues_count": 25,
-    "forks_count": 95
+    "forks_count": 96
   },
   {
     "full_name": "fullcalendar/fullcalendar",
-    "stargazers_count": 14918,
-    "open_issues_count": 726,
-    "forks_count": 3346
+    "stargazers_count": 14925,
+    "open_issues_count": 727,
+    "forks_count": 3347
   },
   {
     "full_name": "jfrogtraining/aws-ecs-docker-compose-workshop",
@@ -61,51 +61,51 @@
   },
   {
     "full_name": "lucianomlima/react-ui-kits",
-    "stargazers_count": 262,
+    "stargazers_count": 264,
     "open_issues_count": 0,
     "forks_count": 17
   },
   {
     "full_name": "public-api-lists/public-api-lists",
-    "stargazers_count": 4631,
+    "stargazers_count": 4664,
     "open_issues_count": 8,
-    "forks_count": 303
+    "forks_count": 304
   },
   {
     "full_name": "ayushiee/fb-clone",
     "stargazers_count": 84,
     "open_issues_count": 0,
-    "forks_count": 16
+    "forks_count": 17
   },
   {
     "full_name": "searchkit/searchkit",
-    "stargazers_count": 4396,
-    "open_issues_count": 27,
+    "stargazers_count": 4398,
+    "open_issues_count": 26,
     "forks_count": 419
   },
   {
     "full_name": "ChakriCherukuri/mlviz",
     "stargazers_count": 100,
     "open_issues_count": 2,
-    "forks_count": 34
+    "forks_count": 35
   },
   {
     "full_name": "inspec/inspec",
-    "stargazers_count": 2496,
-    "open_issues_count": 358,
-    "forks_count": 664
+    "stargazers_count": 2497,
+    "open_issues_count": 362,
+    "forks_count": 666
   },
   {
     "full_name": "saadq/resumake.io",
-    "stargazers_count": 2402,
+    "stargazers_count": 2403,
     "open_issues_count": 71,
     "forks_count": 343
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 139518,
-    "open_issues_count": 240,
-    "forks_count": 23172
+    "stargazers_count": 139764,
+    "open_issues_count": 242,
+    "forks_count": 23220
   },
   {
     "full_name": "jseg787/random-playlist-generator",
@@ -115,26 +115,26 @@
   },
   {
     "full_name": "ClickHouse/ClickHouse",
-    "stargazers_count": 23291,
-    "open_issues_count": 2244,
-    "forks_count": 4650
+    "stargazers_count": 23368,
+    "open_issues_count": 2215,
+    "forks_count": 4667
   },
   {
     "full_name": "cezaraugusto/github-template-guidelines",
-    "stargazers_count": 186,
+    "stargazers_count": 185,
     "open_issues_count": 0,
     "forks_count": 95
   },
   {
     "full_name": "exercism/exercism",
-    "stargazers_count": 6703,
+    "stargazers_count": 6716,
     "open_issues_count": 330,
-    "forks_count": 1040
+    "forks_count": 1039
   },
   {
     "full_name": "GSA/usagov-benefits-eligibility",
     "stargazers_count": 13,
-    "open_issues_count": 66,
+    "open_issues_count": 67,
     "forks_count": 4
   },
   {
@@ -157,15 +157,15 @@
   },
   {
     "full_name": "codrops/CircularTextEffect",
-    "stargazers_count": 112,
+    "stargazers_count": 113,
     "open_issues_count": 1,
     "forks_count": 19
   },
   {
     "full_name": "ant-design/ant-design",
-    "stargazers_count": 79586,
-    "open_issues_count": 830,
-    "forks_count": 33639
+    "stargazers_count": 79675,
+    "open_issues_count": 833,
+    "forks_count": 33703
   },
   {
     "full_name": "fwillett/handwritingBCI",
@@ -176,7 +176,7 @@
   {
     "full_name": "ReagentX/Logria",
     "stargazers_count": 1,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "forks_count": 0
   }
 ]
