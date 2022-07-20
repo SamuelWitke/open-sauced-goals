@@ -1,20 +1,20 @@
 [
   {
     "full_name": "insanum/gcalcli",
-    "stargazers_count": 2808,
-    "open_issues_count": 176,
+    "stargazers_count": 2809,
+    "open_issues_count": 177,
     "forks_count": 280
   },
   {
     "full_name": "arwes/arwes",
-    "stargazers_count": 5159,
+    "stargazers_count": 5158,
     "open_issues_count": 41,
-    "forks_count": 235
+    "forks_count": 236
   },
   {
     "full_name": "kogosoftwarellc/open-api",
-    "stargazers_count": 700,
-    "open_issues_count": 81,
+    "stargazers_count": 701,
+    "open_issues_count": 82,
     "forks_count": 205
   },
   {
@@ -25,27 +25,27 @@
   },
   {
     "full_name": "aleha84/simple.canvas.core2",
-    "stargazers_count": 108,
+    "stargazers_count": 109,
     "open_issues_count": 0,
     "forks_count": 6
   },
   {
     "full_name": "timlrx/tailwind-nextjs-starter-blog",
-    "stargazers_count": 2953,
-    "open_issues_count": 10,
-    "forks_count": 732
+    "stargazers_count": 2969,
+    "open_issues_count": 15,
+    "forks_count": 737
   },
   {
     "full_name": "Camberi/firecms",
-    "stargazers_count": 593,
-    "open_issues_count": 30,
-    "forks_count": 108
+    "stargazers_count": 597,
+    "open_issues_count": 28,
+    "forks_count": 109
   },
   {
     "full_name": "fullcalendar/fullcalendar",
-    "stargazers_count": 15196,
+    "stargazers_count": 15217,
     "open_issues_count": 760,
-    "forks_count": 3373
+    "forks_count": 3377
   },
   {
     "full_name": "jfrogtraining/aws-ecs-docker-compose-workshop",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "public-api-lists/public-api-lists",
-    "stargazers_count": 5146,
-    "open_issues_count": 8,
-    "forks_count": 336
+    "stargazers_count": 5160,
+    "open_issues_count": 9,
+    "forks_count": 337
   },
   {
     "full_name": "ayushiee/fb-clone",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "searchkit/searchkit",
-    "stargazers_count": 4440,
+    "stargazers_count": 4441,
     "open_issues_count": 15,
-    "forks_count": 421
+    "forks_count": 420
   },
   {
     "full_name": "ChakriCherukuri/mlviz",
@@ -91,21 +91,21 @@
   },
   {
     "full_name": "inspec/inspec",
-    "stargazers_count": 2532,
-    "open_issues_count": 356,
+    "stargazers_count": 2533,
+    "open_issues_count": 359,
     "forks_count": 670
   },
   {
     "full_name": "saadq/resumake.io",
-    "stargazers_count": 2547,
-    "open_issues_count": 73,
-    "forks_count": 360
+    "stargazers_count": 2546,
+    "open_issues_count": 74,
+    "forks_count": 361
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 145976,
+    "stargazers_count": 146209,
     "open_issues_count": 269,
-    "forks_count": 24191
+    "forks_count": 24243
   },
   {
     "full_name": "jseg787/random-playlist-generator",
@@ -115,21 +115,21 @@
   },
   {
     "full_name": "ClickHouse/ClickHouse",
-    "stargazers_count": 24585,
-    "open_issues_count": 2552,
-    "forks_count": 4917
+    "stargazers_count": 24627,
+    "open_issues_count": 2537,
+    "forks_count": 4927
   },
   {
     "full_name": "cezaraugusto/github-template-guidelines",
-    "stargazers_count": 190,
+    "stargazers_count": 192,
     "open_issues_count": 0,
     "forks_count": 99
   },
   {
     "full_name": "exercism/exercism",
-    "stargazers_count": 6809,
-    "open_issues_count": 325,
-    "forks_count": 1038
+    "stargazers_count": 6815,
+    "open_issues_count": 324,
+    "forks_count": 1037
   },
   {
     "full_name": "GSA/usagov-benefits-eligibility",
@@ -157,15 +157,15 @@
   },
   {
     "full_name": "codrops/CircularTextEffect",
-    "stargazers_count": 118,
+    "stargazers_count": 119,
     "open_issues_count": 1,
     "forks_count": 20
   },
   {
     "full_name": "ant-design/ant-design",
-    "stargazers_count": 81080,
-    "open_issues_count": 862,
-    "forks_count": 34921
+    "stargazers_count": 81124,
+    "open_issues_count": 867,
+    "forks_count": 34972
   },
   {
     "full_name": "fwillett/handwritingBCI",
